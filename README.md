@@ -1,5 +1,5 @@
 # ROS-Conference
-ROS Conference's program
+![](https://github.com/TemitopeOladokun/ROS-Conference/blob/master/ROSConMacau.png)
 
 ### Title: Keynote: Robotics Middleware Framework for Hospitals - redefining the approach
 #### Speakers: Selina Seah (Changi General Hospital), Morgan Quigley (Open Robotics)
